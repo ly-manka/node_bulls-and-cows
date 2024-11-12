@@ -33,7 +33,7 @@ function askQuestion(randomNumber) {
           promptUser();
         }
       } else {
-        console.log('Number should include 4 uniq digits from 1 to 9');
+        console.log('Number should include 4 unique digits from 1 to 9');
         promptUser();
       }
     });
